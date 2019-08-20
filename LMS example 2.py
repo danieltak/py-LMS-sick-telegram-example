@@ -111,7 +111,6 @@ def dados_cart(data):
     return x, y, qtd
 
 
-c= input()
 i=0
 dados_csv = []
 
